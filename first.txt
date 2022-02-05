@@ -1,5 +1,4 @@
 Gitの練習！！！！
 gitをマスター
-aaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbbbbbbbbb
+.git add
+.git commit
